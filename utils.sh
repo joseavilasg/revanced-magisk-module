@@ -627,6 +627,10 @@ module_config() {
 		ma="arm64"
 	elif [ "$4" = "arm-v7a" ]; then
 		ma="arm"
+	elif [ "$4" = "x86_64" ]; then
+		ma="x64"
+	elif [ "$4" = "x86" ]; then
+		ma="x86"
 	fi
 	echo "PKG_NAME=$2
 PKG_VER=$3
