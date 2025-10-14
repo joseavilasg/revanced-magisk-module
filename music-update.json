@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.42.1)",
-  "versionCode": 12,
-  "zipUrl": "https://github.com/joseavilasg/revanced-magisk-module/releases/download/12/music-revanced-magisk-v8.10.52-x86_64.zip",
+  "version": "v8.10.52 (patches 5.43.0)",
+  "versionCode": 13,
+  "zipUrl": "https://github.com/joseavilasg/revanced-magisk-module/releases/download/13/music-revanced-magisk-v8.10.52-x86_64.zip",
   "changelog": "https://raw.githubusercontent.com/joseavilasg/revanced-magisk-module/update/build.md"
 }
